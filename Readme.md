@@ -1,0 +1,1 @@
+Guard is a simple library that contains a collection of useful functions and methods.
