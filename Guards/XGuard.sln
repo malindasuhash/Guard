@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XGuard", "XGuard\XGuard.csproj", "{79697D9E-E832-4F96-BFAB-1D0B75DB8DA4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{D145C42D-1829-49FC-8D01-F5811B1A96BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XGuard.Test", "XGuard.Test\XGuard.Test.csproj", "{8C9E9A35-E458-4694-B02E-4FADEAEBFFCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79697D9E-E832-4F96-BFAB-1D0B75DB8DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79697D9E-E832-4F96-BFAB-1D0B75DB8DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79697D9E-E832-4F96-BFAB-1D0B75DB8DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79697D9E-E832-4F96-BFAB-1D0B75DB8DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C9E9A35-E458-4694-B02E-4FADEAEBFFCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C9E9A35-E458-4694-B02E-4FADEAEBFFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C9E9A35-E458-4694-B02E-4FADEAEBFFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C9E9A35-E458-4694-B02E-4FADEAEBFFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8C9E9A35-E458-4694-B02E-4FADEAEBFFCC} = {D145C42D-1829-49FC-8D01-F5811B1A96BB}
+	EndGlobalSection
+EndGlobal
