@@ -1,0 +1,5 @@
+﻿10.03.14
+- Added Null and empty checks for objects and text.
+
+NEXT
+- Add a collection helper for IEnumerable.
